@@ -13,6 +13,10 @@ We'll talk about some languages which have a lot in common with Clojure today:
 * SQL
 * Perl (Raku)
 
+## Titles?
+
+"The Grift, the Grind, and the ग्रंथ"
+
 ## Story Arc
 
 * childhood: computers were Only For Fun
@@ -28,6 +32,7 @@ We'll talk about some languages which have a lot in common with Clojure today:
     * Ruby @ Work
     * TDD, CI, IoC (which for some people meant dependency injection)
     * Dynamic/Static religious wars... pick a side
+    * XTech Paris: 3 tracks (one honeypot), cool/fun talks just because
 * Clojure - learning the rules, step 3 (tiny libs, frameworks = bad, metaprogramming = bad)
     * "Choose Your QBASIC" => "Are We There Yet?" == sold.
     * picked a religion
